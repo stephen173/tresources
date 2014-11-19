@@ -1,0 +1,6 @@
+development:
+  sessions:
+    default:
+      database: todo
+      hosts:
+        - localhost:27017
